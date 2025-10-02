@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { useTranslation } from "react-i18next";
 import { Button } from "@/components/ui/button";
 import LanguageSwitcher from "./LanguageSwitcher";
+import logoImage from "@/assets/logo.png";
 
 const Navigation = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -37,7 +38,7 @@ const Navigation = () => {
           <div className="flex items-center gap-x-3">
             <div className="w-10 h-10 flex items-center justify-center">
               <img
-                src="/src/assets/logo.png"
+                src={logoImage}
                 alt="Centre d'Excellence IT Logo"
                 className="w-10 h-10 object-contain"
               />
