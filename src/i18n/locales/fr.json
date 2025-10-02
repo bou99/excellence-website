@@ -1,0 +1,315 @@
+{
+  "nav": {
+    "title": "Centre d'Excellence IT",
+    "subtitle": "Faculté des Sciences Agadir",
+    "about": "À propos",
+    "programs": "Parcours",
+    "research": "Recherche",
+    "events": "Événements",
+    "contact": "Contact",
+    "apply": "Postuler"
+  },
+  "hero": {
+    "badge": "Excellence & Innovation",
+    "title": "Centre d'Excellence",
+    "subtitle": "Faculté des Sciences Agadir",
+    "description": "Formez-vous aux métiers de demain dans un centre d'excellence dédié à l'innovation technologique, la recherche avancée et l'insertion professionnelle.",
+    "subheadline": "Parcours d'Excellence | Innovation | Formation & Recherche",
+    "cta": {
+      "discover": "Découvrir nos parcours",
+      "apply": "Postuler / Contact"
+    },
+    "stats": {
+      "students": "Étudiants formés",
+      "employment": "Taux d'insertion",
+      "partners": "Partenaires industriels",
+      "labs": "Laboratoires de recherche"
+    },
+    "scroll": "Découvrir"
+  },
+  "about": {
+    "our": "Notre",
+    "mission": "Mission",
+    "description": "Le Centre d'Excellence IT de la Faculté des Sciences d'Agadir forme les futurs leaders de la transformation numérique à travers des parcours d'excellence, une recherche de pointe et des partenariats industriels stratégiques.",
+    "features": {
+      "innovation": {
+        "title": "Innovation Technologique",
+        "description": "Laboratoires équipés des dernières technologies pour l'apprentissage et la recherche"
+      },
+      "quality": {
+        "title": "Formation de Qualité",
+        "description": "Programmes certifiés avec un taux d'insertion professionnelle de 95%"
+      },
+      "research": {
+        "title": "Recherche Avancée",
+        "description": "Projets de recherche en partenariat avec l'industrie et les universités internationales"
+      },
+      "international": {
+        "title": "Opportunités Internationales",
+        "description": "Échanges académiques et stages dans les meilleures universités mondiales"
+      }
+    },
+    "quote": "Construire l'avenir numérique du Maroc à travers l'excellence académique et l'innovation technologique",
+    "author": "Centre d'Excellence IT - Faculté des Sciences Agadir"
+  },
+  "programs": {
+    "our": "Nos",
+    "excellence": "d'Excellence",
+    "programs": "Parcours",
+    "description": "Découvrez nos formations spécialisées conçues pour répondre aux besoins du marché et former les experts de demain.",
+    "ai": {
+      "title": "Intelligence Artificielle & Machine Learning",
+      "description": "Maîtrisez les algorithmes d'IA et développez des solutions intelligentes pour transformer les industries.",
+      "highlights": [
+        "Deep Learning",
+        "Computer Vision",
+        "NLP",
+        "Réseaux de neurones"
+      ]
+    },
+    "data": {
+      "title": "Data Science & Big Data",
+      "description": "Analysez et exploitez les données massives pour générer des insights stratégiques.",
+      "highlights": [
+        "Python/R",
+        "Machine Learning",
+        "Visualisation",
+        "Cloud Computing"
+      ]
+    },
+    "software": {
+      "title": "Génie Logiciel & DevOps",
+      "description": "Développez des applications robustes et maîtrisez les pratiques DevOps modernes.",
+      "highlights": [
+        "Architecture logicielle",
+        "CI/CD",
+        "Containerisation",
+        "Microservices"
+      ]
+    },
+    "systems": {
+      "title": "Systèmes & Réseaux",
+      "description": "Concevez et administrez des infrastructures IT complexes et sécurisées.",
+      "highlights": [
+        "Cloud Infrastructure",
+        "Sécurité réseau",
+        "Virtualisation",
+        "Monitoring"
+      ]
+    },
+    "cyber": {
+      "title": "Cybersécurité & Ethical Hacking",
+      "description": "Protégez les systèmes d'information contre les menaces cybernétiques.",
+      "highlights": ["Pentesting", "Forensics", "Cryptographie", "Compliance"]
+    },
+    "bi": {
+      "title": "Business Intelligence & Analytics",
+      "description": "Transformez les données en décisions stratégiques pour les entreprises.",
+      "highlights": ["Tableaux de bord", "Data Warehousing", "Reporting", "KPI"]
+    },
+    "duration": "Durée",
+    "level": "Niveau",
+    "learn_more": "En savoir plus",
+    "cta": {
+      "title": "Prêt à rejoindre l'excellence ?",
+      "description": "Candidatez dès maintenant pour intégrer nos formations d'exception.",
+      "button": "Postuler maintenant"
+    }
+  },
+  "research": {
+    "research": "Recherche",
+    "innovation": "Innovation",
+    "description": "Nos laboratoires de recherche développent des solutions innovantes en collaboration avec l'industrie et les universités internationales.",
+    "lab_ai": "Laboratoire IA & Data Science",
+    "lab_ai_description": "Équipement de pointe pour la recherche en intelligence artificielle",
+    "campus_modern": "Campus Moderne",
+    "campus_modern_description": "Infrastructure adaptée aux besoins de l'enseignement supérieur",
+    "areas": {
+      "title": "Nos Domaines de Recherche",
+      "ai": "Intelligence Artificielle et Machine Learning",
+      "iot": "Internet des Objets",
+      "blockchain": "Blockchain & Cryptographie",
+      "cyber": "Cybersécurité Avancée",
+      "big_data": "Traitement des données massives (Big Data)",
+      "computer_vision": "Vision par ordinateur et robotique"
+    },
+    "achievements": {
+      "title": "Réalisations",
+      "publications": "Publications",
+      "projects": "Projets actifs"
+    },
+    "training": {
+      "title": "Formation & Industrie",
+      "description": "Nos programmes de formation sont développés en étroite collaboration avec des partenaires industriels pour garantir l'adéquation avec les besoins du marché.",
+      "internships": "Stages industriels",
+      "duration": "6 mois minimum en entreprise",
+      "projects": "Projets réels",
+      "collaboration": "Collaboration directe avec l'industrie"
+    },
+    "partners": {
+      "title": "Nos Partenaires Stratégiques",
+      "view_all": "Voir tous nos partenaires"
+    }
+  },
+  "events": {
+    "projects": "Projets",
+    "events": "Événements",
+    "description": "Découvrez nos événements, workshops, hackathons et projets étudiants qui rythment la vie du Centre d'Excellence IT.",
+    "projects_events": {
+      "title": "Nos Projets & Événements",
+      "hackathon": {
+        "title": "HackIT 2024",
+        "description": "Hackathon national de 48h avec plus de 200 participants"
+      },
+      "conference": {
+        "title": "IA Summit Morocco",
+        "description": "Conférence internationale sur l'intelligence artificielle"
+      },
+      "workshop": {
+        "title": "DataViz Workshop",
+        "description": "Atelier pratique sur la visualisation de données avec D3.js"
+      },
+      "startup": {
+        "title": "Startup Weekend IT",
+        "description": "54h pour créer une startup tech innovante"
+      },
+      "symposium": {
+        "title": "ML Research Symposium",
+        "description": "Présentation des dernières recherches en Machine Learning"
+      },
+      "challenge": {
+        "title": "Cybersecurity Challenge",
+        "description": "Compétition de sécurité informatique inter-universités"
+      }
+    },
+    "upcoming": {
+      "title": "Événements à venir",
+      "description": "Ne manquez pas nos prochains événements et opportunités de networking.",
+      "see_all_calendar": "Voir tout l'agenda",
+      "portes_ouvertes": {
+        "title": "Journée Portes Ouvertes",
+        "description": "Découvrez nos formations et laboratoires"
+      },
+      "conference": {
+        "title": "Conférence IA & Éthique",
+        "description": "Table ronde sur l'éthique en intelligence artificielle"
+      },
+      "forum": {
+        "title": "Forum Entreprises",
+        "description": "Rencontres avec nos partenaires industriels"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Témoignages",
+    "subtitle": "Succès de nos Diplômés",
+    "description": "Découvrez les parcours inspirants de nos anciens étudiants aujourd'hui leaders dans leurs domaines.",
+    "success_stats": {
+      "employment": {
+        "title": "Taux d'Emploi",
+        "subtitle": "dans les 6 mois"
+      },
+      "salary": {
+        "title": "Salaire Moyen",
+        "subtitle": "à l'embauche"
+      },
+      "satisfaction": {
+        "title": "Satisfaction",
+        "subtitle": "des diplômés"
+      },
+      "international": {
+        "title": "Opportunités",
+        "subtitle": "internationales"
+      }
+    }
+  },
+  "partners": {
+    "our": "Nos",
+    "partners": "Partenaires",
+    "description": "Le Centre d'Excellence IT collabore avec les leaders mondiaux de la technologie et les institutions académiques de renom pour offrir une formation d'excellence.",
+    "academic": "Partenaires Académiques",
+    "industry": "Partenaires Industriels",
+    "benefits": {
+      "title": "Avantages de nos Partenariats",
+      "formations": {
+        "title": "Formation Adaptée",
+        "description": "Programmes co-conçus avec l'industrie pour répondre aux besoins réels du marché"
+      },
+      "internships": {
+        "title": "Stages Garantis",
+        "description": "Opportunités de stages et d'emploi directement chez nos partenaires"
+      },
+      "vision": {
+        "title": "Vision Internationale",
+        "description": "Mobilité académique et professionnelle à l'échelle mondiale"
+      }
+    }
+  },
+  "cta": {
+    "title": "Rejoignez le Centre d'Excellence IT",
+    "subtitle": "Construisons l'avenir ensemble",
+    "description": "Intégrez une formation d'exception qui vous ouvrira les portes des métiers de demain. Candidatures ouvertes pour la rentrée 2024.",
+    "buttons": {
+      "apply": "Candidater maintenant",
+      "discover": "Découvrir nos programmes"
+    },
+    "contact": {
+      "email": "Email",
+      "phone": "Téléphone",
+      "address": {
+        "title": "Adresse",
+        "faculty": "Faculté des Sciences Agadir",
+        "university": "Université Ibn Zohr"
+      }
+    },
+    "urgency": "Candidatures ouvertes jusqu'au 31 décembre 2024"
+  },
+  "footer": {
+    "title": "Centre d'Excellence IT",
+    "subtitle": "Faculté des Sciences Agadir",
+    "description": "Formant les leaders technologiques de demain à travers l'excellence académique, l'innovation et des partenariats stratégiques avec l'industrie",
+    "quick_links": {
+      "title": "Liens Rapides",
+      "links": {
+        "about": "À propos",
+        "programs": "Nos parcours",
+        "research": "Recherche",
+        "events": "Événements",
+        "contact": "Contact"
+      }
+    },
+    "programs": {
+      "title": "Nos formations",
+      "links": {
+        "ai": "Intelligence Artificielle",
+        "data": "Data Science & Analytics",
+        "software": "Génie Logiciel",
+        "network": "Systèmes & Réseaux",
+        "cyber": "Cybersécurité",
+        "bi": "Business Intelligence"
+      }
+    },
+    "contact": {
+      "title": "Contact & Ressources",
+      "contact": {
+        "faculty": "Faculté des Sciences",
+        "university": "Université Ibn Zohr, Agadir"
+      },
+      "ressources": {
+        "title": "Ressources",
+        "calendar": "Calendrier académique",
+        "library": "Bibliothèque numérique",
+        "e_learning": "Plateforme e-learning"
+      }
+    },
+    "social": {
+      "title": "Suivez-nous"
+    },
+    "copyright": "© 2024 Centre d'Excellence IT - Faculté des Sciences Agadir. Tous droits réservés.",
+    "legal": {
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions d'Utilisation",
+      "legal_notices": "Mentions légales"
+    }
+  }
+}

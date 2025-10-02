@@ -1,0 +1,315 @@
+{
+  "nav": {
+    "title": "IT Center of Excellence",
+    "subtitle": "Faculty of Sciences Agadir",
+    "about": "About",
+    "programs": "Programs",
+    "research": "Research",
+    "events": "Events",
+    "contact": "Contact",
+    "apply": "Apply"
+  },
+  "hero": {
+    "badge": "Excellence & Innovation",
+    "title": "Center of Excellence",
+    "subtitle": "Faculty of Sciences Agadir",
+    "description": "Train for the jobs of tomorrow in a center dedicated to technological innovation, advanced research, and professional integration.",
+    "subheadline": "Programs of Excellence | Innovation | Training & Research",
+    "cta": {
+      "discover": "Discover our programs",
+      "apply": "Apply / Contact"
+    },
+    "stats": {
+      "students": "Students trained",
+      "employment": "Employment rate",
+      "partners": "Industry partners",
+      "labs": "Research laboratories"
+    },
+    "scroll": "Discover"
+  },
+  "about": {
+    "our": "Our",
+    "mission": "Mission",
+    "description": "The IT Center of Excellence of the Faculty of Sciences in Agadir trains future leaders of digital transformation through excellence programs, cutting-edge research, and strategic industry partnerships.",
+    "features": {
+      "innovation": {
+        "title": "Technological Innovation",
+        "description": "Laboratories equipped with the latest technologies for learning and research"
+      },
+      "quality": {
+        "title": "Quality Training",
+        "description": "Certified programs with a 95% employability rate"
+      },
+      "research": {
+        "title": "Advanced Research",
+        "description": "Research projects in partnership with industry and international universities"
+      },
+      "international": {
+        "title": "International Opportunities",
+        "description": "Academic exchanges and internships in top global universities"
+      }
+    },
+    "quote": "Building Morocco's digital future through academic excellence and technological innovation",
+    "author": "IT Center of Excellence - Faculty of Sciences Agadir"
+  },
+  "programs": {
+    "our": "Our",
+    "excellence": "Excellence",
+    "programs": "Programs",
+    "description": "Discover our specialized training designed to meet market needs and train the experts of tomorrow.",
+    "ai": {
+      "title": "Artificial Intelligence & Machine Learning",
+      "description": "Master AI algorithms and develop intelligent solutions to transform industries.",
+      "highlights": [
+        "Deep Learning",
+        "Computer Vision",
+        "NLP",
+        "Neural Networks"
+      ]
+    },
+    "data": {
+      "title": "Data Science & Big Data",
+      "description": "Analyze and leverage massive data to generate strategic insights.",
+      "highlights": [
+        "Python/R",
+        "Machine Learning",
+        "Visualization",
+        "Cloud Computing"
+      ]
+    },
+    "software": {
+      "title": "Software Engineering & DevOps",
+      "description": "Develop robust applications and master modern DevOps practices.",
+      "highlights": [
+        "Software Architecture",
+        "CI/CD",
+        "Containerization",
+        "Microservices"
+      ]
+    },
+    "systems": {
+      "title": "Systems & Networks",
+      "description": "Design and manage complex and secure IT infrastructures.",
+      "highlights": [
+        "Cloud Infrastructure",
+        "Network Security",
+        "Virtualization",
+        "Monitoring"
+      ]
+    },
+    "cyber": {
+      "title": "Cybersecurity & Ethical Hacking",
+      "description": "Protect information systems against cyber threats.",
+      "highlights": ["Pentesting", "Forensics", "Cryptography", "Compliance"]
+    },
+    "bi": {
+      "title": "Business Intelligence & Analytics",
+      "description": "Turn data into strategic decisions for businesses.",
+      "highlights": ["Dashboards", "Data Warehousing", "Reporting", "KPI"]
+    },
+    "duration": "Duration",
+    "level": "Level",
+    "learn_more": "Learn more",
+    "cta": {
+      "title": "Ready to join excellence?",
+      "description": "Apply now to join our outstanding programs.",
+      "button": "Apply now"
+    }
+  },
+  "research": {
+    "research": "Research",
+    "innovation": "Innovation",
+    "description": "Our research laboratories develop innovative solutions in collaboration with industry and international universities.",
+    "lab_ai": "AI & Data Science Laboratory",
+    "lab_ai_description": "State-of-the-art equipment for AI research",
+    "campus_modern": "Modern Campus",
+    "campus_modern_description": "Infrastructure adapted to higher education needs",
+    "areas": {
+      "title": "Our Research Areas",
+      "ai": "Artificial Intelligence & Machine Learning",
+      "iot": "Internet of Things",
+      "blockchain": "Blockchain & Cryptography",
+      "cyber": "Advanced Cybersecurity",
+      "big_data": "Big Data Processing",
+      "computer_vision": "Computer Vision & Robotics"
+    },
+    "achievements": {
+      "title": "Achievements",
+      "publications": "Publications",
+      "projects": "Active projects"
+    },
+    "training": {
+      "title": "Training & Industry",
+      "description": "Our training programs are developed in close collaboration with industry partners to ensure alignment with market needs.",
+      "internships": "Industrial internships",
+      "duration": "Minimum 6 months in company",
+      "projects": "Real projects",
+      "collaboration": "Direct collaboration with industry"
+    },
+    "partners": {
+      "title": "Our Strategic Partners",
+      "view_all": "View all partners"
+    }
+  },
+  "events": {
+    "projects": "Projects",
+    "events": "Events",
+    "description": "Discover our events, workshops, hackathons, and student projects that shape the life of the IT Center of Excellence.",
+    "projects_events": {
+      "title": "Our Projects & Events",
+      "hackathon": {
+        "title": "HackIT 2024",
+        "description": "48h national hackathon with over 200 participants"
+      },
+      "conference": {
+        "title": "AI Summit Morocco",
+        "description": "International conference on Artificial Intelligence"
+      },
+      "workshop": {
+        "title": "DataViz Workshop",
+        "description": "Hands-on workshop on data visualization with D3.js"
+      },
+      "startup": {
+        "title": "Startup Weekend IT",
+        "description": "54h to create an innovative tech startup"
+      },
+      "symposium": {
+        "title": "ML Research Symposium",
+        "description": "Presentation of the latest research in Machine Learning"
+      },
+      "challenge": {
+        "title": "Cybersecurity Challenge",
+        "description": "Inter-university cybersecurity competition"
+      }
+    },
+    "upcoming": {
+      "title": "Upcoming Events",
+      "description": "Don't miss our upcoming events and networking opportunities.",
+      "see_all_calendar": "See full calendar",
+      "portes_ouvertes": {
+        "title": "Open Day",
+        "description": "Discover our programs and laboratories"
+      },
+      "conference": {
+        "title": "AI & Ethics Conference",
+        "description": "Roundtable on ethics in Artificial Intelligence"
+      },
+      "forum": {
+        "title": "Business Forum",
+        "description": "Meetings with our industry partners"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "Success of Our Graduates",
+    "description": "Discover inspiring journeys of our alumni who are now leaders in their fields.",
+    "success_stats": {
+      "employment": {
+        "title": "Employment Rate",
+        "subtitle": "within 6 months"
+      },
+      "salary": {
+        "title": "Average Salary",
+        "subtitle": "at hiring"
+      },
+      "satisfaction": {
+        "title": "Satisfaction",
+        "subtitle": "of graduates"
+      },
+      "international": {
+        "title": "Opportunities",
+        "subtitle": "international"
+      }
+    }
+  },
+  "partners": {
+    "our": "Our",
+    "partners": "Partners",
+    "description": "The IT Center of Excellence collaborates with global technology leaders and renowned academic institutions to provide excellent training.",
+    "academic": "Academic Partners",
+    "industry": "Industry Partners",
+    "benefits": {
+      "title": "Benefits of our Partnerships",
+      "formations": {
+        "title": "Tailored Training",
+        "description": "Programs co-designed with industry to meet real market needs"
+      },
+      "internships": {
+        "title": "Guaranteed Internships",
+        "description": "Internship and job opportunities directly with our partners"
+      },
+      "vision": {
+        "title": "International Vision",
+        "description": "Academic and professional mobility worldwide"
+      }
+    }
+  },
+  "cta": {
+    "title": "Join the IT Center of Excellence",
+    "subtitle": "Let's build the future together",
+    "description": "Join an exceptional training program that will open the doors to the jobs of tomorrow. Applications open for the 2024 intake.",
+    "buttons": {
+      "apply": "Apply now",
+      "discover": "Discover our programs"
+    },
+    "contact": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": {
+        "title": "Address",
+        "faculty": "Faculty of Sciences Agadir",
+        "university": "Ibn Zohr University"
+      }
+    },
+    "urgency": "Applications open until December 31, 2024"
+  },
+  "footer": {
+    "title": "IT Center of Excellence",
+    "subtitle": "Faculty of Sciences Agadir",
+    "description": "Training tomorrow's tech leaders through academic excellence, innovation, and strategic industry partnerships",
+    "quick_links": {
+      "title": "Quick Links",
+      "links": {
+        "about": "About",
+        "programs": "Programs",
+        "research": "Research",
+        "events": "Events",
+        "contact": "Contact"
+      }
+    },
+    "programs": {
+      "title": "Our Programs",
+      "links": {
+        "ai": "Artificial Intelligence",
+        "data": "Data Science & Analytics",
+        "software": "Software Engineering",
+        "network": "Systems & Networks",
+        "cyber": "Cybersecurity",
+        "bi": "Business Intelligence"
+      }
+    },
+    "contact": {
+      "title": "Contact & Resources",
+      "contact": {
+        "faculty": "Faculty of Sciences",
+        "university": "Ibn Zohr University, Agadir"
+      },
+      "ressources": {
+        "title": "Ressources",
+        "calendar": "Academic Calendar",
+        "library": "Digital Library",
+        "e_learning": "E-learning Platform"
+      }
+    },
+    "social": {
+      "title": "Follow us"
+    },
+    "copyright": "© 2024 IT Center of Excellence - Faculty of Sciences Agadir. All rights reserved.",
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use",
+      "legal_notices": "Legal Notices"
+    }
+  }
+}
